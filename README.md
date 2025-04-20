@@ -2,6 +2,8 @@
 
 This project demonstrates the use of machine learning to solve a physics-based problem: determining the correct parameters (initial height, velocity, and angle) for a projectile to hit a target. The project involves generating synthetic data, training a neural network model, and using the model to predict optimal solutions.
 
+![Graphical abstract of the project](/../main/assets/images/graphical_abstract.png)
+
 ## Key Steps in the Project:
 1. **Data Generation**:
     - Synthetic data is generated using the `HitTargetGame` class, which simulates projectile motion with varying parameters such as target distance, height, diameter, initial height, velocity, and angle.
