@@ -13,6 +13,7 @@ This project demonstrates the use of machine learning to solve a physics-based p
 
 3. **Model Creation and Training**:
     - A neural network model is created using TensorFlow/Keras. The model is trained to predict whether the projectile will hit the target based on the input parameters.
+![Example of training](images/output_training_history.png)
 
 4. **Model Evaluation**:
     - The model's performance is evaluated using test data, and metrics such as loss and accuracy are calculated.
@@ -20,6 +21,7 @@ This project demonstrates the use of machine learning to solve a physics-based p
 5. **Prediction and Visualization**:
     - The trained model is used to predict the best parameters for hitting a target with given specifications (distance, height, and diameter).
     - The results are visualized using a graphical representation of the projectile motion and the target.
+![Example of obtained output](images/output_best_solutions.png)
 
 ## Libraries and Tools Used:
 - `pandas` for data manipulation and analysis.
