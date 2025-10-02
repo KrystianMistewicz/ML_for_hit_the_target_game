@@ -33,3 +33,5 @@ This project demonstrates the use of machine learning to solve a physics-based p
 - Custom modules (`HitTargetGame`, `ProjectileMotion`, `Graph`) for physics simulation and visualization.
 
 This project combines physics, machine learning, and data visualization to solve a practical problem in an interactive and educational way.
+
+⭐ **If you find this project useful, please consider giving it a star!**
