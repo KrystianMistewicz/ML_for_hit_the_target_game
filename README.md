@@ -1,5 +1,7 @@
 # Hit Target Game - Machine Learning Project
 
+⭐ **If you find this project useful, please consider giving it a star!**
+
 This project demonstrates the use of machine learning to solve a physics-based problem: determining the correct parameters (initial height, velocity, and angle) for a projectile to hit a target. The project involves generating synthetic data, training a neural network model, and using the model to predict optimal solutions.
 
 ![Graphical abstract of the project](images/graphical_abstract.png)
