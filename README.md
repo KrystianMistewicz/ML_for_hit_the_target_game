@@ -1,7 +1,7 @@
 # Hit Target Game - Machine Learning Project
 
-## ⭐⭐⭐Support the Project
-**If you find this project helpful, please consider starring the repository!**  
+## ⭐Support the Project
+**If you find this project helpful, please consider starring the repository!**  ⭐
 👉 It helps more people discover the project and keeps motivation high 💡  
 
 ## 📖 About Project
